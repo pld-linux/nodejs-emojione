@@ -10,7 +10,7 @@ Summary:	EmojiOne - complete open source emoji set
 Summary(pl.UTF-8):	EmojiOne - pełny zbiór piktogramów emoji o otwartych źródłach
 Name:		nodejs-emojione
 Version:	2.2.7
-Release:	4
+Release:	5
 License:	MIT (code), CC-BY v4.0 (artwork)
 Group:		Libraries
 #Source0Download: https://github.com/Ranks/emojione/releases
